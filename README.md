@@ -31,7 +31,7 @@ Production deployments should use only officially signed binaries that have pass
 
 ## License and user rights
 
-OpenLogReplicator is released under the **GNU General Public License (GPL)**.
+OpenLogReplicator is released under the **GNU Affero General Public License (AGPL)**.
 
 If you have received software that is based on OpenLogReplicator, you are legally entitled to obtain the **full corresponding source code** of that software.
 
