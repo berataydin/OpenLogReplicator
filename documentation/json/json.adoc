@@ -1,7 +1,7 @@
 = OpenLogReplicator.json config file
 :author: Adam Leszczyński <aleszczynski@bersler.com>
-:revnumber: 1.9.0
-:revdate: 2026-01-31
+:revnumber: 2.0.0
+:revdate: 2026-07-17
 :imagesdir: ./images
 :icons: font
 
@@ -41,7 +41,7 @@ Typical deployments use a single `target` element.
 |`version`
 |_string_, max length: 256, mandatory
 |Exact configuration schema version.
-Current required value: `"1.9.0"`.
+Current required value: `"2.0.0"`.
 
 _TIP:_ Use the `version` field as a guard during upgrades.
 Consult the release notes for schema changes before reusing an old configuration file.
@@ -116,7 +116,7 @@ Enable higher verbosity only when diagnosing specific issues.
 [source,json]
 ----
 {
-  "version": "1.9.0",
+  "version": "2.0.0",
   "source": [
     {
       "alias": "SOURCE",

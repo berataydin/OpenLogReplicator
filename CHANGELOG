@@ -1,3 +1,4 @@
+2.0.0
 - fix: empty command line argument prints help message
 - documentation refresh
 - enhancement: added service state metrics
