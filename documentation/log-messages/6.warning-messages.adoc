@@ -1,7 +1,7 @@
 = Warning Messages (6xxxx)
 :author: Adam Leszczyński <aleszczynski@bersler.com>
-:revnumber: 1.9.0
-:revdate: 2026-02-03
+:revnumber: 2.0.0
+:revdate: 2026-07-17
 
 [frame="none",grid="none"]
 |====

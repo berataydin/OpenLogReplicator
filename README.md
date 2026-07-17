@@ -4,6 +4,12 @@ OpenLogReplicator is an open-source Oracle database Change Data Capture (CDC) so
 
 It reads transactions directly from Oracle redo log files (by parsing binary redo logs) and streams changes in `JSON` or `Protobuf` format to various targets.
 
+## Release status
+
+OpenLogReplicator **1.9** is the stable release line.
+
+OpenLogReplicator **2.0** is currently under active development and should be treated as **devel**.
+
 ## Supported targets
 
 - Kafka
